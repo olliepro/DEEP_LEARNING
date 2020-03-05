@@ -1,0 +1,122 @@
+01/21/20 12:18
+
+polynomial_interpolation.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+01/22/20 19:37
+
+Problems 1-2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+missing half of the orange line, we talked about this so hopefully tt works out
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+call plt.show()
+Score += 0
+
+Code Quality (5 points):
+comment your code
+Score += 0
+
+Total score: 30/50 = 60.0%
+
+-------------------------------------------------------------------------------
+
+01/23/20 10:38
+
+Problems 1-2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+AttributeError: 'Barycentric' object has no attribute 'n'  ####FIXED####
+
+Problem 5 (10 points):
+base 2 and label please
+Score += 8
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+label and title please
+Score += 7
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+01/23/20 11:12
+
+Problems 1-2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+AttributeError: 'Barycentric' object has no attribute 'n'
+
+Problem 5 (10 points):
+label
+Score += 7
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+lables and plots title
+Score += 7
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 39/50 = 78.0%
+
+-------------------------------------------------------------------------------
+
+01/23/20 12:17
+
+Problems 1-2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+AttributeError: 'Barycentric' object has no attribute 'n'
+
+Problem 5 (10 points):
+label plots missing and base 2
+Score += 7
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+no plots label or title
+Score += 7
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 39/50 = 78.0%
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+02/25/20 11:57
+
+gradient_methods.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+03/04/20 19:21
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+prob4() failed
+	Correct response: [-3482258.         15.02       -0.04       -2.02       -1.03       -0.05
+     1829.16]
+	Student response: [ 0.94  0.   -0.   -0.   -0.    0.    0.  ]
+Score += 0
+
+Problems 5 and 6 (10 points):
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/Oliver/Desktop/ACME_STUFF/volume_2/GradientMethods/challenger.npy'
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
